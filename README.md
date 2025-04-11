@@ -48,7 +48,7 @@
 
 ##  Cara Menjalankan Program
 
-Pastikan udah menginstall Go terus jalankan setiap file dengan:
+Pastikan udah menginstall Go terus jalankan setiap file satu persatu dengan:
 
 ```bash
 go run soal1_SloaneOEIS.go
