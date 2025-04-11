@@ -48,7 +48,7 @@
 
 ##  Cara Menjalankan Program
 
-Pastikan udah menginstall Go terus jalankan setiap file satu persatu dengan:
+Pastikan udah menginstall Go terus jalankan setiap file satu persatu di terminal dengan:
 
 ### Soal 1
 ```bash
