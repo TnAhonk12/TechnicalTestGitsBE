@@ -55,4 +55,4 @@ go run soal1_SloaneOEIS.go
 go run soal2_DenseRanking.go
 go run soal3_BalancedBracket.go
 ```
-> **Catatan:** ini tidak memakai 'go mod init' jadi kalau ada error di IDE (VS Code atau GoLand) seperti 'No packages found' itu gapapa yang penting bisa jalan pake 'go run'
+> **Catatan:** ini tidak memakai `go mod init` jadi kalau ada error di IDE (VS Code atau GoLand) seperti `No packages found` itu gapapa yang penting bisa jalan pake `go run`
