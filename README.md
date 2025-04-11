@@ -50,9 +50,16 @@
 
 Pastikan udah menginstall Go terus jalankan setiap file satu persatu dengan:
 
+### Soal 1
 ```bash
 go run soal1_SloaneOEIS.go
+```
+### Soal 2
+```bash
 go run soal2_DenseRanking.go
+```
+### Soal 3
+```bash
 go run soal3_BalancedBracket.go
 ```
 > **Catatan:** ini tidak memakai `go mod init` jadi kalau ada error di IDE (VS Code atau GoLand) seperti `No packages found` itu gapapa yang penting bisa jalan pake `go run`
